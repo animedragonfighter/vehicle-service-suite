@@ -1,4 +1,4 @@
-# vehicle-service-suite
+# Vehicle Service Suite
 
 Vehicle Service Suite is a php CMS platform designed for mobile mechanics, repair shops and even customers to manage their vehicle maintenance ,service history and roadside assistance requests. This application provides a single interface for tracking repairs, scheduling services, storing vehicle records and facilitating communication between mechanics and clients.
 
